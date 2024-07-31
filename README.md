@@ -1,9 +1,9 @@
 Hi There👋 I’m Temi! (she/her)
 
-I'm a Personate Data Analyst, Engineer and Aglist💻
+I'm a Personate Data Analyst💻
 
 I recently shifted careers from Scrum Aglilty and consulting due to Covid-19. I believe in diverse skills and i love everything Tech, 
-I am currently a student at University of Penn 🌱, and wrapping up the Data science bootcamp, im excited to make a positive impact in the world.
+I honed a certificate at  University of Penn 🌱in the Data science bootcamp, im excited to make a positive impact in the world.
 I’m looking to collaborate with other coders💞️ 
 Fun fact: I love going to the gym and i have a healthy sense of humor⚡
 
